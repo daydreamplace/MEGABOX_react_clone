@@ -10,7 +10,7 @@ JUSTCODE 6기 2팀인 STARBOX팀의 Megabox 클론코딩 프로젝트입니다.
 ![영화 메인](https://user-images.githubusercontent.com/88419431/193578658-46ee5ce7-9cd6-42a1-aaae-13051aa3df86.PNG)
 
 **STARBOX**
-![](https://velog.velcdn.com/images/daydreamplace/post/622dcad4-9aa1-4229-b5ae-c3b57732cf05/image.png)
+![](https://user-images.githubusercontent.com/109200582/197327935-e0aaa023-6dd9-4962-9505-9fcdfc4c032a.png)
 
 
 국내 대표 영화 티켓팅 사이트 '[MEGABOX](https://www.megabox.co.kr/)'을 모티브로 한 프로젝트입니다. 2차 프로젝트 클론 코딩 사이트로 메가박스를 선정한 이유는 1차 프로젝트에서 대부분의 팀들이 e-commerce를 진행해서 2차에는 다른 분야의 사이트가 좋겠다는 의견이 있었고, 새로운 형태와 분야의 사이트를 찾던 중 기본 CRUD는 물론 이외에 UI와 기능면에서도 배울 점이 많았고 데이터가 풍부해 2차 프로젝트에 알맞을 것 같아서 선정하게 되었습니다.
@@ -170,8 +170,10 @@ npm start
 
 ![DB](https://user-images.githubusercontent.com/88419431/193578720-4b6a58e6-042d-4adc-aa50-f21e3beac4f9.PNG)
 
- ## [📑API Docs](https://documenter.getpostman.com/view/22703204/2s7ZE4NQnp#de716034-8667-44c7-9662-0eadb80d143e)
+## [📑API Docs](https://documenter.getpostman.com/view/22703204/2s7ZE4NQnp#de716034-8667-44c7-9662-0eadb80d143e)
 ![](https://velog.velcdn.com/images/daydreamplace/post/81f3afd0-4eeb-426c-8ee9-5095bfab1746/image.png)
+
+## [✔️TEAM notion](https://www.notion.so/wecode/2-STARBOX-c09094a986d44c4b9ab702b4bd1b3fd6)
 
 
 ## Reference
