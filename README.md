@@ -1,5 +1,5 @@
 # 👩🏻‍💻 [JUSTCODE 6기 - 2nd Project] STARBOX - MEGABOX 클론 코딩 하기
----
+
 
 JUSTCODE 6기 2팀인 STARBOX팀의 Megabox 클론코딩 프로젝트입니다.
 
