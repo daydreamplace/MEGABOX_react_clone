@@ -83,10 +83,10 @@ npm start
 # 🛠 적용 기술 및 구현 기능
 
 ##  적용 기술
-+ Front-end : javascript, React.js, react-dom, react-router-dom, sass, styled-componets, react-icons, axios, qs, lazy-sizes, ContextAPI, webpack
++ Front-end : javascript, React.js, react-dom, react-router-dom, sass, styled-components, react-icons, axios, qs, lazy-sizes, ContextAPI, webpack
 + Common : RESTful API, PostMan, LiveServer
 + Community Tools : Slack, Zoom, Notion, Zep, Trello
-+ Version Control Tool : Git(flow는 github flow방식을 따름)
++ Version Control Tool : Git
 
 
 ##  구현 기능
