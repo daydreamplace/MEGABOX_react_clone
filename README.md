@@ -1,7 +1,7 @@
-# 👩🏻‍💻 [JUSTCODE 6기 - 2nd Project] STARBOX - MEGABOX 클론 코딩 하기
+# 👩🏻‍💻 STARBOX - MEGABOX 클론 코딩 하기
 
 
-JUSTCODE 6기 2팀인 STARBOX팀의 Megabox 클론코딩 프로젝트입니다.
+JUSTCODE 6기 2차 프로젝트 2팀, STARBOX팀의 Megabox 클론코딩 프로젝트입니다.
 
 <br/>
 
@@ -172,6 +172,7 @@ npm start
 
 ## [✔️TEAM notion](https://www.notion.so/wecode/2-STARBOX-c09094a986d44c4b9ab702b4bd1b3fd6)
 
+## [✔️Trello]( https://trello.com/b/vHTBevR2/project-management)
 
 ## Reference
 
