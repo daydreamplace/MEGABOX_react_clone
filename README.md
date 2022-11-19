@@ -1,7 +1,6 @@
-# 👩🏻‍💻 STARBOX - MEGABOX 클론 코딩 하기
+# 👩🏻‍💻 STARBOX
 
-
-JUSTCODE 6기 2차 프로젝트 2팀, STARBOX팀의 Megabox 클론코딩 프로젝트입니다.
+JUSTCODE 6기 2차 프로젝트 2팀, STARBOX팀의 프로젝트 입니다.
 
 <br/>
 
