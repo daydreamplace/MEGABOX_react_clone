@@ -14,7 +14,7 @@ JUSTCODE 6기 2차 프로젝트 2팀, STARBOX팀의 프로젝트 입니다.
 
 국내 대표 영화 티켓팅 사이트 '[MEGABOX](https://www.megabox.co.kr/)'을 모티브로 한 프로젝트입니다. 2차 프로젝트 클론 코딩 사이트로 메가박스를 선정한 이유는 1차 프로젝트에서 대부분의 팀들이 e-commerce를 진행해서 2차에는 다른 분야의 사이트가 좋겠다는 의견이 있었고, 새로운 형태와 분야의 사이트를 찾던 중 기본 CRUD는 물론 이외에 UI와 기능면에서도 배울 점이 많았고 데이터가 풍부해 2차 프로젝트에 알맞을 것 같아서 선정하게 되었습니다.
 
-### [🎥MEGABOX_clone_project 시연 영상]( https://www.youtube.com/watch?v=K6d3YfHN9Jk )
+### [🎥STARBOX_project 시연 영상]( https://www.youtube.com/watch?v=K6d3YfHN9Jk )
 ### ![](https://velog.velcdn.com/images/daydreamplace/post/fb9c5aa9-d7e4-4ab0-a7ff-85ecd539617f/image.gif)
 
 ---
